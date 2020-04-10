@@ -1,0 +1,4 @@
+﻿  크레인인형뽑기.cpp
+C:\Users\yun\Desktop\yun\문제\Kakao\Kakao\크레인인형뽑기.cpp(11,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\yun\Desktop\yun\문제\Kakao\Kakao\크레인인형뽑기.cpp(12,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Kakao.vcxproj -> C:\Users\yun\Desktop\yun\문제\Kakao\Debug\Kakao.exe
